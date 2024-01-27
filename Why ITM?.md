@@ -4,7 +4,7 @@ type: essay
 title: "Why ITM?"
 # All dates must be YYYY-MM-DD format!
 date: 2024-01-17
-published: true
+published: false
 labels:
   - Information Technology
 ---
